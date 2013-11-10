@@ -8,9 +8,14 @@ link for.
 # Installation & requirements
 
 [boto][1] is a requirement and you'll have to [configure it][2] before
-s3-secret-url will work.pp
+s3-secret-url will work
 
 Whack s3-secret-url on your path and away you go.
+
+# Usage
+
+`s3-secret-url my-bucket` you'll be asked which file you'd like to
+create a link for.
 
 
 
