@@ -1,6 +1,6 @@
 # S3 Secret URL
 
-A simple tool that lists the contents of a bucket, presemts a list of
+A simple tool that lists the contents of a bucket, presents a list of
 it's contents and asks you what item you'd like to generate a secret
 link for.
 
